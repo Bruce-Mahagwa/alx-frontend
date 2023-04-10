@@ -517,5 +517,6 @@ ul.row {
 [data-section-them = "dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
+  color: var(--text-color);
   background: var(--color-black);
 }
